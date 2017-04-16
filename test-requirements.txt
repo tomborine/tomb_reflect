@@ -3,6 +3,6 @@ mock
 pytest
 pytest-cov
 pytest-xdist
-tomb_routes
+https://github.com/tomborine/tomb_routes/archive/master.zip
 tox
 webtest
